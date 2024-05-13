@@ -1,21 +1,24 @@
 # StudyNotion
-<!-- ## Live 
-https://study-notion-frontend-wheat.vercel.app/ \
-otp mail will be in your spam section -->
-## Installation
 
+## Live
+
+https://study-notion-seven-flax.vercel.app/ \
+otp mail will be in your spam section
+
+## Installation
 
 ## Configuration
 
 1. For only frontend replace the example.env file in root with .env and
-     ```sh
-    npm run start
-    ```
+   ```sh
+   npm run start
+   ```
 2. Replace an `example.env` files with your enviroment virables
 3. Start the development server.
-    ```sh
-    npm run dev
-    ```
+   ```sh
+   npm run dev
+   ```
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
